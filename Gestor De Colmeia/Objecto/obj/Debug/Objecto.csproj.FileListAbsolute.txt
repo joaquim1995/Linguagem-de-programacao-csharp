@@ -1,0 +1,9 @@
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Objecto\bin\Debug\Objecto.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Objecto\bin\Debug\Objecto.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Objecto\obj\Debug\Objecto.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Objecto\obj\Debug\Objecto.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Objecto\obj\Debug\Objecto.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Objecto\bin\Debug\Objecto.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Objecto\bin\Debug\Objecto.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Objecto\obj\Debug\Objecto.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Objecto\obj\Debug\Objecto.pdb

@@ -1,0 +1,81 @@
+<GhostDoc>
+<IgnoreFilePatterns>
+  <IgnoreFilePattern>*.min.js</IgnoreFilePattern>
+  <IgnoreFilePattern>jquery*.js</IgnoreFilePattern>
+</IgnoreFilePatterns>
+  <SpellChecker>
+    <IncludeExtensions>
+    </IncludeExtensions>
+    <IgnoreExtensions>
+    </IgnoreExtensions>
+    <IgnoreFiles>
+    </IgnoreFiles>
+  </SpellChecker>
+<HelpConfigurations selected="Final">
+  <HelpConfiguration name="HelpFile">
+    <OutputPath>.\Help</OutputPath>
+    <HelpFileName>Gestor De Colmeia</HelpFileName>
+    <ImageFolderPath />
+    <HtmlFormats>
+      <HtmlHelp>true</HtmlHelp>
+      <MSHelpViewer>false</MSHelpViewer>
+      <MSHelp2>false</MSHelp2>
+      <Website>false</Website>
+    </HtmlFormats>
+    <IncludeScopes>
+      <Public>true</Public>
+      <Internal>true</Internal>
+      <Protected>true</Protected>
+      <Private>true</Private>
+      <Inherited>true</Inherited>
+      <InheritedFromReferences>true</InheritedFromReferences>
+      <EnableTags>false</EnableTags>
+      <TagList />
+    </IncludeScopes>
+    <ResolveCrefLinks>true</ResolveCrefLinks>
+    <HeaderText />
+    <FooterText />
+    <ConceptualContent>
+      <ContentLayout />
+      <MediaContent />
+    </ConceptualContent>
+    <SelectedProjects />
+  </HelpConfiguration>
+  <HelpConfiguration name="Final">
+    <OutputPath>.\</OutputPath>
+    <HelpFileName />
+    <ImageFolderPath />
+    <HtmlFormats>
+      <HtmlHelp>true</HtmlHelp>
+      <MSHelpViewer>false</MSHelpViewer>
+      <MSHelp2>false</MSHelp2>
+      <Website>false</Website>
+    </HtmlFormats>
+    <IncludeScopes>
+      <Public>true</Public>
+      <Internal>true</Internal>
+      <Protected>true</Protected>
+      <Private>true</Private>
+      <Inherited>true</Inherited>
+      <InheritedFromReferences>true</InheritedFromReferences>
+      <EnableTags>false</EnableTags>
+      <TagList />
+    </IncludeScopes>
+    <ResolveCrefLinks>true</ResolveCrefLinks>
+    <HeaderText />
+    <FooterText />
+    <ConceptualContent>
+      <ContentLayout />
+      <MediaContent />
+    </ConceptualContent>
+    <SelectedProjects>
+      <SelectedProject>Objecto</SelectedProject>
+      <SelectedProject>Exception</SelectedProject>
+      <SelectedProject>Empresa</SelectedProject>
+      <SelectedProject>RegrasNegocio</SelectedProject>
+      <SelectedProject>WindowsFormsApplication1</SelectedProject>
+      <SelectedProject>Apresentacao</SelectedProject>
+    </SelectedProjects>
+  </HelpConfiguration>
+</HelpConfigurations>
+</GhostDoc>
