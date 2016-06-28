@@ -1,0 +1,8 @@
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\bin\Debug\Trabalho pratico.exe.config
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\bin\Debug\Trabalho pratico.exe
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\bin\Debug\Trabalho pratico.pdb
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\obj\Debug\Trabalho pratico.exe
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\obj\Debug\Trabalho pratico.pdb
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\bin\Debug\Metodos.dll
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\bin\Debug\Metodos.pdb
+c:\users\quim\documents\visual studio 2013\Projects\LP1\Trabalho pratico\obj\Debug\Trabalho pratico.csprojResolveAssemblyReference.cache
