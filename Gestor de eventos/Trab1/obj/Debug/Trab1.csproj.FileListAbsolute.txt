@@ -1,0 +1,16 @@
+C:\Users\Utilizador\Desktop\LP1\Trab1\bin\Debug\Trab1.exe.config
+C:\Users\Utilizador\Desktop\LP1\Trab1\obj\Debug\Trab1.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Desktop\LP1\Trab1\bin\Debug\Trab1.exe
+C:\Users\Utilizador\Desktop\LP1\Trab1\bin\Debug\Trab1.pdb
+C:\Users\Utilizador\Desktop\LP1\Trab1\obj\Debug\Trab1.exe
+C:\Users\Utilizador\Desktop\LP1\Trab1\obj\Debug\Trab1.pdb
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\bin\Debug\Trab1.exe.config
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\obj\Debug\Trab1.exe
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\obj\Debug\Trab1.pdb
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\bin\Debug\Trab1.exe
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\bin\Debug\Trab1.pdb
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\bin\Debug\Trab1.exe.manifest
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\bin\Debug\Trab1.application
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\obj\Debug\Trab1.exe.manifest
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\obj\Debug\Trab1.application
+C:\Users\Utilizador\Desktop\LP\LP1\Trab1\obj\Debug\Trab1.csprojResolveAssemblyReference.cache
