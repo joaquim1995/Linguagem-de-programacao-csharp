@@ -1,0 +1,16 @@
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\obj\Debug\Empresa.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\bin\Debug\Empresa.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\bin\Debug\Objecto.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\bin\Debug\Objecto.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\obj\Debug\Empresa.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Empresa\obj\Debug\Empresa.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\obj\Debug\Empresa.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\bin\Debug\Empresa.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\bin\Debug\ClassLibrary1.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\bin\Debug\Objecto.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\bin\Debug\ClassLibrary1.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\bin\Debug\Objecto.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\obj\Debug\Empresa.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\LESI-PL_10201\Gestor De Colmeia\Empresa\obj\Debug\Empresa.pdb

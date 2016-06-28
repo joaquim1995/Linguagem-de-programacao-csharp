@@ -1,0 +1,5 @@
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Exception\bin\Debug\Exception.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Exception\bin\Debug\Exception.pdb
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Exception\obj\Debug\Exception.dll
+C:\Users\Utilizador\Dropbox\LESI-PL\1º Ano\2º Semestre\LP II\Exercicios\Xadrez\Gestor De Colmeia\Exception\obj\Debug\Exception.pdb
